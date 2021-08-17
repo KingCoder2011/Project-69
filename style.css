@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+#name {
+    padding-top: 20px;
+    background-color: aqua;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'MonteCarlo', cursive;
+
+}
+
+section {
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+img {
+    height: 300px;
+    align-self: center;
+}
+p {
+    padding: 25px inherit;
+    color: blue;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+    font-size: 30px;
+}
+nav {
+    position: sticky;
+}
+ul {
+    position: sticky;
+}
+li {
+    position: sticky;
+}
+
+img {
+    height: 10%;
+}
